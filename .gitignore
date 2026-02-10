@@ -1,0 +1,9 @@
+# Environment
+.env
+venv/
+
+# Bot
+__pycache__/
+log.txt
+*session
+*journal

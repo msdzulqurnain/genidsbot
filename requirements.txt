@@ -1,0 +1,4 @@
+git+https://github.com/msdzulqurnain/pyrogram
+tgcrypto
+pyromod
+python-dotenv
